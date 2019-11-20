@@ -11,4 +11,9 @@ class Cat
     {
         echo '抓老鼠';
     }
+
+    public function say()
+    {
+        echo 'miu miu ';
+    }
 }
